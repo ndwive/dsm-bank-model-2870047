@@ -1,2 +1,2 @@
-# dsm-bank-model-2870047
+# Data Science Methodology: Making Business Sense
 Bank marketing model
